@@ -9,4 +9,5 @@ Sonos Controller made with Python and Tkinter
 
 # Credits
 Sebb0y
-SoCo Package
+
+SoCo Package : [Package Link](https://pypi.org/project/soco/)
