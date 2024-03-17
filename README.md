@@ -7,6 +7,10 @@ Sonos Controller made with Python and Tkinter
 - Current Song Name
 - Current Artist
 
+# Requirements:
+- Tkinter
+- Soco
+
 # Credits
 Sebb0y
 
