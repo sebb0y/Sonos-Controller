@@ -1,5 +1,6 @@
 # Sonos-Controller
-Sonos Controller made with Python and Tkinter\n
+Sonos Controller made with Python and Tkinter
+
 I am still learning Python so this is just something I made for learning purposes!
 
 # Features:
