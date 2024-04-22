@@ -6,6 +6,7 @@ Sonos Controller made with Python and Tkinter
 - Volume Slider
 - Current Song Name
 - Current Artist
+- Login Page (Not Secure)
 
 # Requirements:
 - Tkinter
