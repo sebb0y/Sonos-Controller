@@ -15,6 +15,6 @@ I am still learning Python so this is just something I made for learning purpose
 - Soco
 
 # Credits
-Sebb0y
+Sebb0y (Give me credit if you use my code!)
 
 SoCo Package : [Package Link](https://pypi.org/project/soco/)
